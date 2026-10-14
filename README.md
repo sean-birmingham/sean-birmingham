@@ -12,11 +12,13 @@ I'm a front-end developer in Great Mills, Maryland. I build responsive web inter
 
 ### Featured projects
 
+<a href="https://crate-red-two.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/crate-dark.png"><img alt="Crate: a record-shop take on a music player for browsing albums, playing songs, and building playlists, built with Next.js, React, TypeScript, and Tailwind CSS. Opens the live demo." src="./assets/projects/crate-light.png" width="100%"></picture></a>
+
 <a href="https://filmpire-sbirmingham.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/filmpire-dark.png"><img alt="Filmpire: a movie discovery app on the TMDB API, built with React, Redux Toolkit, and Material UI by following a JavaScript Mastery course. Opens the live site." src="./assets/projects/filmpire-light.png" width="100%"></picture></a>
 
 <a href="https://sbirmingham.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/portfolio-dark.png"><img alt="Portfolio: my one-page site built with Next.js, TypeScript, and Tailwind CSS. Opens sbirmingham.dev." src="./assets/projects/portfolio-light.png" width="100%"></picture></a>
 
-<sub>Code: [filmpire_sb](https://github.com/sean-birmingham/filmpire_sb) · [portfolio](https://github.com/sean-birmingham/portfolio)</sub>
+<sub>Code: [crate](https://github.com/sean-birmingham/crate) · [filmpire_sb](https://github.com/sean-birmingham/filmpire_sb) · [portfolio](https://github.com/sean-birmingham/portfolio)</sub>
 
 ### Tech stack
 
